@@ -1,2 +1,2 @@
 var ugly = require('uglify-js');
-ugly.parse("./src/test.js");
+ugly.parse("./src/myFile.js");
